@@ -18,6 +18,7 @@ class _InputpageState extends State<Inputpage> {
   @override
   Widget build(BuildContext context) {
     return Container(
+
       child: Scaffold(
           backgroundColor: Colors.white60,
         appBar: AppBar(
